@@ -1,4 +1,5 @@
-# Emilio – My First EMI Calculator Project
+# Emilio – My First EMI Calculator Project ![Version](https://img.shields.io/badge/Version-v1.0-blue.svg) ![Status](https://img.shields.io/badge/Status-Stable-brightgreen) ![License](https://img.shields.io/badge/License-MIT-yellow) ![Build](https://img.shields.io/badge/Build-Streamlit-blueviolet) ![Python Version](https://img.shields.io/badge/Python-3.11+-blue.svg) ![Status](https://img.shields.io/badge/Status-Active-success.svg) ![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen.svg)
+
 
 Emilio is my very first project, built when I bought my first laptop on EMI.  
 My dad didn’t tell me the exact monthly due 😭 and I was super curious…  
