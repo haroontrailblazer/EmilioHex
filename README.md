@@ -43,7 +43,5 @@ Emilio reminds me where I started.
 - **Python**
 - **Streamlit** for UI
 - **Matplotlib** for pie charts
-- A little HTML + CSS inside Streamlit
-
 
 ---
