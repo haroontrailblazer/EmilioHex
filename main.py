@@ -2,7 +2,7 @@ import matplotlib.pyplot as mp
 import streamlit as st
 
     
-st.set_page_config(page_title="Emilio - Understand Your Interest. Plan Your Payments.", page_icon='https://github.com/haroontrailblazer/haroontrailblazer/blob/main/Project%20Pngs/Emilio.jpg?raw=true', layout="centered")
+st.set_page_config(page_title="Emilio - Understand Your Interest. Plan Your Payments.", page_icon="https://github.com/haroontrailblazer/EmilioHex/blob/main/Emilio.jpg?raw=true", layout="centered")
 st.markdown("""
     <style>
         #MainMenu {visibility: hidden;}
@@ -95,4 +95,5 @@ else:
         st.session_state.show_form = False
 
         st.rerun()
+
 
